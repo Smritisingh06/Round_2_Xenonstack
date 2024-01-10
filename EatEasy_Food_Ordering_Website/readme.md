@@ -14,7 +14,8 @@ These are the instructions to clone and run this project in your local machine f
 ![alt text](./Sign_up_page.jpeg)
 
 3. Contact us page
-![alt text](./Login_page.jpeg)
+
+![alt text](./contact_us.jpeg.jpeg)
 
 4. Login page
 
