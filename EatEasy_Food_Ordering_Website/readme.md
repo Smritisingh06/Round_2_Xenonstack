@@ -11,11 +11,11 @@ These are the instructions to clone and run this project in your local machine f
 
 2. Sign up page
 
-![alt text](./Sign_up_page.jpeg)
+![alt text](./contact_us.jpeg) 
 
 3. Contact us page
 
-![alt text](./contact_us.jpeg)
+![alt text](./Sign_up_page.jpeg)
 
 4. Login page
 
