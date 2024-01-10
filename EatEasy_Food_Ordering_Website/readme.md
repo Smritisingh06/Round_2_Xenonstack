@@ -5,8 +5,11 @@ EatEasy is your go-to platform for ordering food online from your favorite resta
 ## Getting Started
 
 These are the instructions to clone and run this project in your local machine for developement and testing purpose
+1. Home Page
+
 ![alt text](./Home_page.jpeg)
-![alt text](./EatEasy_Food_Ordering_Website\Sign up page.jpeg)
+
+![alt text](./EatEasy_Food_Ordering_Website\Sign_up_page.jpeg)
 
 ### Prerequisites
 
