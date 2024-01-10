@@ -13,11 +13,11 @@ These are the instructions to clone and run this project in your local machine f
 
 ![alt text](./Sign_up_page.jpeg) 
 
-3. Contact us page
+3. Login page
 
 ![alt text](./Login_page.jpeg)
 
-4. Login page
+4. Contact us page
 
 ![alt text](./contact_us.jpeg) 
 
